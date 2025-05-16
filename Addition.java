@@ -5,6 +5,7 @@ public class Addition {
         int x=2;
         int y=4;
         int z=5;
+        int w=6;
         System.out.println("addition");
     }
 }
