@@ -7,6 +7,7 @@ public class Addition {
         int z=5;
         int w=6;
         int a=8;
+        String str="s";
         System.out.println("addition");
     }
 }
