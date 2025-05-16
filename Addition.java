@@ -8,6 +8,7 @@ public class Addition {
         int w=6;
         int a=8;
         String str="s";
+        int abc=10;
         System.out.println("addition");
     }
 }
